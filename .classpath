@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="NaturalApp/src/main/java"/>
+	<classpathentry kind="src" path="NaturalApp/src/test/java"/>
+	<classpathentry kind="output" path="NaturalApp/target/classes"/>
+</classpath>
